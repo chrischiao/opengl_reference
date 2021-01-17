@@ -1,2 +1,2 @@
 # opengl_reference
-learn opengl
+TheCherno OpenGL Series
